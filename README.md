@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashanthb-19
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on front end developers
+- 💞️ I’m looking to collaborate with front end developers
 - 📫 How to reach me-  bprashanthg3@gmail.com
 
 <!---
